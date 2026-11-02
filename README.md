@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COS 201 - Computer Programming I
 
 # MUSTAPHA TOHEEB AYOMIDE
@@ -49,3 +50,7 @@ java ItemCost
 ### Testing
 
 All three programs should be tested with different valid inputs to verify that their results match the expected calculations.
+=======
+# Mustapha-Toheeb-
+COS 201 Assignment for Mustapha Toheeb Ayomide
+>>>>>>> d5f8e904888639946262bad643c0ba6d357e211d
